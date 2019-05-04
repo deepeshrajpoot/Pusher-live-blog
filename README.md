@@ -22,12 +22,22 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-------------------------------------------------------------**********---------------------------------------------------------
-First we Need to create a account on 
-"Pusher.com" and "cloudinary.com"
-Then follow  instructions below ;
-on
-https://pusher.com/tutorials/live-blog-ruby-rails
 
-Test Live Blog on
-http://localhost:3000/post/create
+
+
+* First we Need to create a account on
+
+
+* "Pusher.com" and "cloudinary.com"
+
+
+* Then follow  instructions below ;
+
+* on
+
+* https://pusher.com/tutorials/live-blog-ruby-rails
+
+* Test Live Blog on
+
+* http://localhost:3000/post/create
+
