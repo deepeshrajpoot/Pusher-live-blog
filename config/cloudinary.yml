@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: deepesh1996
+  api_key: '345111793495758'
+  api_secret: OtzOuVayUybtfONJ2PEnXXZzC3A
+  enhance_image_tag: true
+  static_file_support: false
+production:
+  cloud_name: deepesh1996
+  api_key: '345111793495758'
+  api_secret: OtzOuVayUybtfONJ2PEnXXZzC3A
+  enhance_image_tag: true
+  static_file_support: true
+test:
+  cloud_name: deepesh1996
+  api_key: '345111793495758'
+  api_secret: OtzOuVayUybtfONJ2PEnXXZzC3A
+  enhance_image_tag: true
+  static_file_support: false
